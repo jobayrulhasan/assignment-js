@@ -1,4 +1,3 @@
-/*We know one mile = 5280 feet*/
 
 function feetToMile(feet){
     var mile = feet/ 5280;
